@@ -1,0 +1,11 @@
+git config --global user.name melana123
+git config --global user.email melana.etec@gmail.com
+
+npx create-expo-app@latest galloDelivery
+
+--------- limpar o template
+cd galloDelivery
+npm run reset-project   pressionar n
+
+---------- criar pasta constants
+----------arquico colors.js
